@@ -25,7 +25,7 @@ function App() {
             
             
             <div className="cta-buttons">
-              <a href="public/Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf" className="button secondary">
+              <a href="Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf" className="button secondary">
                 📄 Download Resume
               </a>
               <a href="https://github.com/tina1robot" target="_blank" rel="noopener noreferrer" className="button secondary">
@@ -36,7 +36,7 @@ function App() {
               </a>
             </div>
           </div>
-          <img src="public/images/ChristinaM.webp" alt="profile photo" />
+          <img src="images/ChristinaM.webp" alt="profile photo" />
         </section>
 
         {/* Quick Wins*/}
@@ -228,7 +228,7 @@ function App() {
          
           <div className="quick-links">
             <p><strong>Quick Links:</strong></p>
-            <a href="public/Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf"> Resume (PDF)</a> | 
+            <a href="Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf"> Resume (PDF)</a> | 
             <a href="https://github.com/tina1robot" target="_blank" rel="noopener noreferrer">GitHub</a> | 
             <a href="https://www.christinacode.com/" target="_blank" rel="noopener noreferrer">Portfolio</a>
           </div>
