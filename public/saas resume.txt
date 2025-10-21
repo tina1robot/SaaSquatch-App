@@ -1,0 +1,72 @@
+﻿CHRISTINA MCNEICE
+mcneicechristina@gmail.com | Victoria, BC - V8X 1G2 | 403-704-0787 
+  LinkedIn • GitHub • Portfolio 
+
+
+KEY ACHIEVEMENTS
+First Place - Community Hackathon (2025): Co-organized event and led team that developed auto-grade feedback system
+Victoria Tech Week 2025 Presenter - Showcasing production software to industry professionals
+Production Impact - Features deployed serving 200+ students with December 2025 full release
+Event Leadership - Co-organized 3-event hackathon series with 60+ participants
+
+
+EDUCATION
+University of Victoria | Expected 2027
+Bachelor of Science, Computer Science | Minor in Software Development
+Relevant Coursework: Advanced Software Engineering • Data Structures & Algorithms • Network Security • Web Development • UI Design • System Architecture & Models
+
+
+EXPERIENCE
+Software Engineering Co-op | Inspire Research Lab, Victoria, BC
+September 2025 - December 2025
+
+
+Impact & Delivery:
+* Developing Mathine academic plugin showcased at Victoria Tech Week 2025, collaborating with 7-person team to deliver production-ready features for 200+ students
+* Implemented 3 major features (auto study planner, focus mode, practice quiz generator) using TDD practices, with successful deployment scheduled December 2025
+* Engaged with 15+ students and 3 professors to gather requirements, validate designs through iterative cycles, and ensure user-centered solutions
+
+
+Leadership & Innovation:
+* Won first place leading 4-person team in internal hackathon, delivering functional auto-grade feedback system within 19-hour deadline under competitive pressure
+* Co-organized 3-event hackathon series coordinating logistics for 60+ participants while actively competing, increasing project visibility by 40%
+
+
+Technical Contributions:
+* Debugged complex legacy codebase, identified performance bottlenecks, and integrated new features maintaining code quality and system stability
+* Applied Agile methodologies including sprint planning, stand-ups, and retrospectives in collaborative team environment
+Research Assistant | Restoration Futures Lab, Victoria, BC
+September 2022 - January 2023
+* Designed scalable database architecture managing restoration data across 500+ land segments, creating normalized schemas and defining entity relationships
+* Collaborated on backend system design including data storage optimization, query performance, and API architecture
+* Produced comprehensive technical documentation covering database schemas, backend protocols, and system integration procedures
+
+
+PROJECTS
+Auto-Grade Feedback System | Hackathon Winner | 2025
+Won first place and prize money in a competitive hackathon judged by industry professionals. Led 4-person team to architect and build a full-stack application in 19 hours using TypeScript, OpenAI API, and Vite. Delivered functional AI-powered system providing immediate personalized feedback on student assignments, demonstrating rapid prototyping and modern development practices under pressure.
+
+
+Cybersecurity Assessments | Independent Study | 2024
+Completed Lighthouse Labs Cybersecurity Course. Performed security assessments on Linux VMs using Nmap for network mapping, vulnerability scanning, and log analysis. Analyzed network traffic and web application behavior.
+TECHNICAL EXPERTISE
+Programming & Development
+Java • JavaScript • React • Vue • Nuxt • TypeScript •  C • Python •  SQL • Vite • REST APIs • HTML/CSS • OpenAI API
+Engineering Practices
+Agile/Scrum • Test-Driven Development • Git/GitLab • Jira • System Design • Database Architecture • CI/CD • Code Review • Technical Documentation
+Tools & Platforms
+Linux • Windows • macOS • SQL Server • BASH • SSH • GIS • VMs • Network Security Tools
+
+
+LEADERSHIP & CERTIFICATIONS
+Website Manager - Women in Computer Science Club
+* Lead website strategy and content direction for established university club
+* Coordinate information collection and manage website updates
+* Oversee technical implementations and direct site development priorities
+* Collaborate with stakeholders to align web presence
+
+
+Certifications: IBM DevOps & Software Engineering (In Progress) • Google IT Support Professional (In Progress)
+
+
+References Available Upon Request

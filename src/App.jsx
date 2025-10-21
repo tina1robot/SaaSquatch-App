@@ -25,7 +25,7 @@ function App() {
             
             
             <div className="cta-buttons">
-              <a href="/christina-mcneice-resume.pdf" download className="button primary">
+              <a href="public/Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf" className="button secondary">
                 📄 Download Resume
               </a>
               <a href="https://github.com/tina1robot" target="_blank" rel="noopener noreferrer" className="button secondary">
@@ -36,7 +36,7 @@ function App() {
               </a>
             </div>
           </div>
-          <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop" alt="Collaboration workspace" />
+          <img src="public/images/ChristinaM.webp" alt="profile photo" />
         </section>
 
         {/* Quick Wins*/}
@@ -212,23 +212,25 @@ function App() {
           <h3>Let's Talk</h3>
           <p>I'd love to discuss how I can contribute to the impact.com team</p>
           <div className="contact-buttons">
-            <a href="mailto:mcneicechristina@gmail.com" className="cta-button">
-              📧 Email Me
-            </a>
             <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer" className="cta-button secondary">
               💼 LinkedIn
             </a>
+              <a href="mailto:mcneicechristina@gmail.com" className="cta-button">
+              📧 Email Me
+            </a>
             <a href="tel:403-704-0787" className="cta-button secondary">
-              📱 Call: 403-704-0787
+              📱 403-704-0787
             </a>
           </div>
+
+      
           
          
           <div className="quick-links">
             <p><strong>Quick Links:</strong></p>
-            <a href="/christina-mcneice-resume.pdf" download>Resume (PDF)</a> | 
-            <a href="https://github.com/YOUR-USERNAME" target="_blank" rel="noopener noreferrer">GitHub</a> | 
-            <a href="YOUR-PORTFOLIO-LINK" target="_blank" rel="noopener noreferrer">Portfolio</a>
+            <a href="public/Christina-McNeice-Resume.pdf" download="christina-mcneice-resume.pdf"> Resume (PDF)</a> | 
+            <a href="https://github.com/tina1robot" target="_blank" rel="noopener noreferrer">GitHub</a> | 
+            <a href="https://www.christinacode.com/" target="_blank" rel="noopener noreferrer">Portfolio</a>
           </div>
         </section>
       </main>
