@@ -120,7 +120,7 @@ function App() {
               <ul>
                 <li><strong>Shipping to production:</strong> 3 major features (auto study planner, focus mode, practice quiz generator) serving 200+ students</li>
                 <li><strong>Tech stack:</strong> Vue/Nuxt, TypeScript, TDD practices, Git/GitLab, Agile/Scrum</li>
-                <li><strong>Showcased at Victoria Tech Week 2025</strong> - presented to industry professionals</li>
+                <li><strong>Showcased at Victoria Tech Week 2025</strong> - scheduled to present to industry professionals</li>
                 <li><strong>Won 1st place hackathon</strong> - led 4-person team to build auto-grade feedback system in 19 hours</li>
               </ul>
             </div>
@@ -129,10 +129,11 @@ function App() {
               <h4>🔧 Currently: Website Manager for Women in Engineering and Computer Science</h4>
               <p><strong>July 2025 - Present </strong></p>
               <ul>
-                <li><strong>Shipping to production:</strong> 3 major features (auto study planner, focus mode, practice quiz generator) serving 200+ students</li>
-                <li><strong>Tech stack:</strong> Vue/Nuxt, TypeScript, TDD practices, Git/GitLab, Agile/Scrum</li>
-                <li><strong>Showcased at Victoria Tech Week 2025</strong> - presented to industry professionals</li>
-                <li><strong>Won 1st place hackathon</strong> - led 4-person team to build auto-grade feedback system in 19 hours</li>
+                <li><strong>React development:</strong> Building team spotlight feature to showcase member achievements and stories</li>
+                <li><strong>Site improvements:</strong> Collaborating with coding team to enhance navigation and user experience</li>
+                <li><strong>Content management:</strong> Updating events, resources, and announcements for 100+ club members</li>
+                <li><strong>Cross-team coordination:</strong> Working with executives to prioritize features and website enhancements</li>
+                <li><strong>Digital presence:</strong> Maintaining website and social platforms to boost recruitment and engagement</li>
               </ul>
             </div>
             
@@ -212,7 +213,7 @@ function App() {
           <h3>Let's Talk</h3>
           <p>I'd love to discuss how I can contribute to the impact.com team</p>
           <div className="contact-buttons">
-            <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noopener noreferrer" className="cta-button secondary">
+            <a href="www.linkedin.com/in/christina-mcneice-441b541a0" target="_blank" rel="noopener noreferrer" className="cta-button secondary">
               💼 LinkedIn
             </a>
               <a href="mailto:mcneicechristina@gmail.com" className="cta-button">
