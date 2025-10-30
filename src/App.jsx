@@ -146,9 +146,6 @@ function App() {
               </ul>
             </div>
 
-
-
-
           </div>
         </section>
 
@@ -213,7 +210,7 @@ function App() {
           <h3>Let's Talk</h3>
           <p>I'd love to discuss how I can contribute to the impact.com team</p>
           <div className="contact-buttons">
-            <a href="www.linkedin.com/in/christina-mcneice-441b541a0" target="_blank" rel="noopener noreferrer" className="cta-button secondary">
+            <a href="https://www.linkedin.com/in/christina-mcneice-441b541a0" target="_blank" rel="noopener noreferrer" className="cta-button secondary">
               💼 LinkedIn
             </a>
               <a href="mailto:mcneicechristina@gmail.com" className="cta-button">
